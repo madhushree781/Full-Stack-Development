@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Hotel Feedback</title>
+  </head>
+  <body>
+    <form>
+      <label for="IN INDIA">INSIDE INDIA</label>
+      <input id="IN INDIA"type="radio" name="loc" value="">
+      <br>
+      <label for="OUT INDIA">OUTSIDE INDIA</label>
+      <input id="OUT INDIA" type="radio" name="loc" value="">
+      <br>
+
+
+
+
+    </form>
+  </body>
+</html>
